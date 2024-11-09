@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaban Khan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"></img>
 
 - 🔭 I’m currently working on [Imagefai | A.I Editor](https://imagefai-xi.vercel.app/)
 
