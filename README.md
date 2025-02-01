@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Imagefai | A.I Editor](https://imagefai-xi.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://playshaban.github.io/profile/](https://playshaban.github.io/profile/)
+- 👨‍💻 All of my projects are available at [https://proshaban.vercel.app/](https://proshaban.vercel.app)
 
 - 💬 Ask me about **MERN , Shopify , Wordpress**
 
